@@ -1,0 +1,16 @@
+keys staggered 19.05mm from corresponding corners
+lower row offset right by 6.35mm
+
+caps are 18.25mm on each side
+
+pcb is 129.54mm x 41.91mm x 1.55mm
+
+top of enclosure rises 14mm above top of pcb
+3mm clearance on bottom
+1mm clearance around pcb sides
+
+2mm walls to allow for 7.5mm round bevel
+1mm ceiling
+2mm floor for structure
+1mm x 10mm indents on bottom of floor for rubber feet
+1.4mm edge for securing both halves
