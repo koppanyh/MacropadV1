@@ -24,3 +24,4 @@ top of enclosure rises 14mm above top of pcb
 1mm x 10mm indents on bottom of floor for rubber feet
 1.4mm tall edge for securing both halves
 edge is 0.8mm thick
+4mm light pipe holes
